@@ -5,6 +5,8 @@
 
 ![X-axis-assembly](https://github.com/EmyTassenoey/3D-Printer/blob/master/Printed%20parts/X-axis-rev2%20v47.png)
 
+![CAM](https://github.com/EmyTassenoey/3D-Printer/blob/master/Assembly-CAM%20v9.png)
+
 ![X-carriage-assembly](https://github.com/EmyTassenoey/3D-Printer/blob/master/Printed%20parts/X-carriage-III-assembled-rev2%20v24.png)
 
 ![Y-endstop-holder-assembly](https://github.com/EmyTassenoey/3D-Printer/blob/master/Printed%20parts/Y-endstop-holder-III-rev1-assembled%20v4.png)
